@@ -4,6 +4,7 @@
   "description": "Starting the freaking website finally!",
   "main": "index.js",
   "scripts": {
+    "start": "gulp tasks",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
